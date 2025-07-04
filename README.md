@@ -524,7 +524,7 @@ exploited by a malicious actuator.​
     </tr>
     <tr>
         <td>
-            <a href="https://www.acsac.org/2021/workshops/icss/" target="_blank">Industrial Control System Security (ICSS) Workshop</a>
+            <a href="https://www.acsac.org/2024/workshops/icss/" target="_blank">Industrial Control System Security (ICSS) Workshop</a>
         </td>
         <td>
             The goal of this workshop is to explore new techniques to improve security-critical control systems in the face of emerging threats.
@@ -532,7 +532,7 @@ exploited by a malicious actuator.​
     </tr>
     <tr>
         <td>
-            <a href="https://link.springer.com/book/10.1007/978-3-030-95484-0" target="_blank">Workshop on the Security of Industrial Control Systems & of Cyber-Physical Systems (CyberICPS)</a>
+            <a href="https://conferences.ds.unipi.gr/cybericps2025/" target="_blank">Workshop on the Security of Industrial Control Systems & of Cyber-Physical Systems (CyberICPS)</a>
         </td>
         <td>
             CyberICPS intends to bring together researchers, engineers and governmental actors with an interest in the security of ICS and CPS in the context of their increasing exposure to cyber-space, by offering a forum for discussion on all issues related to their cyber security.
@@ -544,6 +544,27 @@ exploited by a malicious actuator.​
         </td>
         <td>
             Joint Workshop on CPS&IoT Security and Privacy that aims to present work done in the areas of tackling security and privacy issues for CPS and IoT.
+    </tr>
+    <tr>
+        <td>
+            <a href="http://jianying.space/cpss/CPSS2025/" target="_blank">ACM Cyber-Physical System Security Workshop (CPSS 2025)</a>
+        </td>
+        <td>
+            This workshop will provide a platform for professionals from academia, government, and industry to discuss novel ways to address the ever-present security challenges facing CPS.
+    </tr>
+    <tr>
+        <td>
+            <a href="https://icps2025.ieee-ies.org/" target="_blank">IEEE Conference on Industrial Cyber-Physical Systems (ICPS) </a>
+        </td>
+        <td>
+            This conference aims to provide a platform to exchange research and innovation results, as well as experiences learned from industrial practices associated with new paradigms and technologies related to Industrial Cyber-Physical Systems.
+    </tr>
+    <tr>
+        <td>
+            <a href="https://cns2024.ieee-cns.org/workshop/cps-sec-workshop" target="_blank">IEEE International Workshop on Cyber-Physical Systems Security (CPS-Sec)</a>
+        </td>
+        <td>
+            CPS-Sec 2024 aims to serve as a platform for researchers and practitioners from both industry and academia interested in CPS security.
     </tr>
 </table>
 
